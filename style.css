@@ -1,0 +1,55 @@
+body{
+    margin:0;
+    background-color: cornflowerblue;
+}
+h1{
+    color:crimson;
+    text-align: center;
+}
+.container{
+    /* border: 1px solid black; */
+    padding:1rem;
+    margin: 3rem;
+    margin-top:10%;
+    display: flex;
+    justify-content: space-around;
+}
+.container button{
+   width: 100px;
+   height:100px;
+   background-color: #ffff;
+   border: 5px solid rgb(111, 111, 136);
+   border-radius: 10px;
+   color:rgb(40, 247, 40);
+   font-size:xx-large;
+   font-weight: 600;
+   cursor: pointer;
+}
+.s{
+    background-image: url("images/snare.jpg");
+    background-repeat:no-repeat;
+}
+.w{
+    background-image: url("images/w_drum.jpg");
+    background-repeat:no-repeat;
+}
+.d{
+    background-image: url("images/d_drum.jpg");
+    background-repeat:no-repeat;
+}
+.a{
+    background-image: url("images/a_drum.jpg");
+    background-repeat:no-repeat;
+}
+.k{
+    background-image: url("images/k_drum.jpg");
+    background-repeat:no-repeat;
+}
+.j{
+    background-image: url("images/j_drum.jpg");
+    background-repeat:no-repeat;
+}
+.l{
+    background-image: url("images/l_drum.jpg");
+    background-repeat:no-repeat;
+}
